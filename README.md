@@ -112,7 +112,7 @@ data-warehouse-project/
 
 1. **Clone the repository:**  
     ```bash
-    git clone [https://github.com/your-username/data-warehouse-project.git](https://github.com/BilalBoudjema/sql-data-warehoud-project)
+    git clone https://github.com/BilalBoudjema/sql-data-warehouse-project.git
     ```
 
 2. **Set up SQL Server & SSMS.**
